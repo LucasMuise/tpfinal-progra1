@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOAl0kYenXU7DmZwjD/DJPANV+Dj7lDSufeDwmeErw28uHcNK842S8CGpjDLEHvBJei4h1Hrd7DLSX5OQqQ2pA==",
+  "success": true,
+  "projectFilePath": "E:\\Curso C# Nivel 1\\TPFinal_Muise\\TPFinal_Muise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mluca\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
